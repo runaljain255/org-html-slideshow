@@ -8,7 +8,7 @@ Supports anything Org-Mode can export: bulleted lists, code blocks,
 images, etc.
 
 Should work in most modern web browsers; tested only in Google Chrome
-29.0.1547.76.
+29.0.1547.76. #not working on microsoft edge 59+
 
 Org-HTML-Slideshow is written in
 [ClojureScript](https://github.com/clojure/clojurescript).
